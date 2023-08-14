@@ -95,6 +95,10 @@ public class dahliacontroller : MonoBehaviour
 
     //bracelet + charms
 
-    //customisable outfits
+    //menu
+
+    //quests/missions
+
+    //inventory
 
 }
